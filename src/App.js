@@ -23,7 +23,7 @@ function App() {
     nombre: 'Alberto 2',
     puesto: 'Dios',
     foto:'https://github.com/Albertwo512.png',
-    equipo:'Programacion',
+    equipo:'UX y Diseño',
     fav: false
   },
   {id: uuid(),
