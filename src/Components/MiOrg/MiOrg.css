@@ -14,7 +14,7 @@
 }
 
 .orgSection img {
- position: absolute;
+ position: static;
  right: 30%;
  cursor: pointer;
 }
