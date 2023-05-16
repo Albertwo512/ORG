@@ -31,7 +31,14 @@ function App() {
     puesto: 'Dios',
     foto:'https://github.com/Albertwo512.png',
     equipo:'Programacion',
-    fav: true
+    fav: false
+  },
+  {id: uuid(),
+    nombre: 'Guillermo',
+    puesto: 'Instructor',
+    foto:'https://github.com/membriux.png',
+    equipo:'Programacion',
+    fav: false
   }
   ]);
 
